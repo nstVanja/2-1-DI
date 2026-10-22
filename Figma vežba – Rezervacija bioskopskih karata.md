@@ -77,7 +77,9 @@ Digitalizuj svoju skicu u Figmi. Fajl nazovi **Bioskop\_Ime\_Prezime**.
 
 Ovako bi gotov rad mogao da izgleda. Plave strelice označavaju veze iz Zadatka 3.
 
-&#91;image: Skica rešenja – tri ekrana aplikacije za rezervaciju bioskopskih karata\]
+![ekrani](https://github.com/nstVanja/2-1-DI/blob/0bed599b5370e90b924736e070e021ba2ba4a32d/bioskop.png)
+
+Skica rešenja – tri ekrana aplikacije za rezervaciju bioskopskih karata
 
 ## Zadatak 3 – Interaktivni prototip
 
